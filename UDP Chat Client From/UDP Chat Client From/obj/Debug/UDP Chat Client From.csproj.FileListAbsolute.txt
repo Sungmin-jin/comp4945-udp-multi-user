@@ -1,0 +1,13 @@
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\bin\Debug\UDP Chat Client From.exe.config
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\bin\Debug\UDP Chat Client From.exe
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\bin\Debug\UDP Chat Client From.pdb
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\bin\Debug\UDP Asynchronous Chat.dll
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\bin\Debug\UDP Asynchronous Chat.pdb
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP Chat Client From.csprojAssemblyReference.cache
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP_Chat_Client_From.Properties.Resources.resources
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP Chat Client From.csproj.GenerateResource.cache
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP Chat Client From.csproj.CoreCompileInputs.cache
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP Chat Client From.csproj.CopyComplete
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP Chat Client From.exe
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP Chat Client From.pdb
+C:\2021\Assignment 2\UDP Chat Client From\UDP Chat Client From\obj\Debug\UDP_Chat_Client_From.Form1.resources
